@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yu Li (李煜）"
-description              : "Exploring LLM theory and applications, with a focus on tool learning and safety defenses in LLM-agent frameworks. "
+description              : "Exploring LLM theory and applications, with a focus on tool learning and safety defenses in LLM-agent. "
 repository               : "ElevenLiy/ElevenLiy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/34/2997-21.html"
-  orcid            : # e.g., "https://orcid.org/my-orcid?orcid=0009-0007-3900-696X"
+  dblp             : "https://dblp.org/pid/34/2997-21.html"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-3900-696X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
