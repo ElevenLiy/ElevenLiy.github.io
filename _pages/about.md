@@ -45,8 +45,11 @@ My research interest includes:
 for Advancing Open-Ended Text Evaluation](https://arxiv.org/pdf/2403.19305?)
 
 **Yu Li**, Shenyu Zhang, Rui Wu, Xiutian Huang, Wenhao Xu, Guilin Qi, Dehai Min
+**Yu Li**^*^, Shenyu Zhang^*^, Rui Wu, Xiutian Huang, Wenhao Xu, Guilin Qi, Dehai Min
 
-[**Project**](https://github.com/ElevenLiy/MATEval) <strong><span class='show_paper_citations' data='ikFB2JcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+
+
+[**Project**](https://github.com/ElevenLiy/MATEval) <strong><span class='show_paper_citations' data='ikFB2JcAAAAJ:Tyk-4Ss8FVUC'></span></strong>（DASFAA 2024 Oral）
 </div>
 </div>
 
