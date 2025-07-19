@@ -24,14 +24,17 @@ My research interest includes:
 - Fine‑tuning and Reinforcement Learning for LLMs
 - LLM‑Driven Autonomous Agent Architectures
 - Cooperative Multi‑Agent Collaboration
-- Security and Robustness in LLMs & Agent Frameworks
+- Security and Robustness in LLMs &amp; Agent Frameworks
 
 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: &nbsp;🎉 Our paper (<a href='https://arxiv.org/abs/2501.15791'> MAKGED </a>) was accepted by DASFAA 2025, Oral Paper!
+- *2024.12*: &nbsp;🎉 Our paper was accepted by AAAI 2025!
+- *2024.03*: &nbsp;🎉 Our paper (<a href='https://link.springer.com/chapter/10.1007/978-981-97-5575-2_31'> MATEval </a>) was accepted by DASFAA 2024, Oral Paper!
+- *2024.03*: &nbsp;🎉 Our paper (<a href='https://link.springer.com/chapter/10.1007/978-981-97-5575-2_29'> DEE </a>) was accepted by DASFAA 2024, Oral Paper!
+- *2024.01*: &nbsp;🎉 Our paper was accepted by NAACL 2024!
 
 # 📝 Publications 
 
