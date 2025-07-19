@@ -59,17 +59,32 @@ for Advancing Open-Ended Text Evaluation](https://arxiv.org/pdf/2403.19305?) （
   **Yu Li**, Yi Huang, Guilin Qi, Junlan Feng, Nan Hu, Songlin Zhai, Haohan Xue, Yongrui Chen, Ruoyan Shen, Tongtong Wu  
   [**Code**](https://github.com/ElevenLiy/MAKGED) <strong><span class='show_paper_citations' data='ikFB2JcAAAAJ:Tyk-4Ss8FVUC'></span></strong> [![GitHub Stars](https://img.shields.io/github/stars/kse-ElEvEn/MAKGED?style=social)](https://github.com/kse-ElEvEn/MAKGED)
 
+- [DEE: Dual-Stage Explainable Evaluation Method for Text Generation](https://link.springer.com/chapter/10.1007/978-981-97-5575-2_29) （DASFAA 2024 Oral）  
+  Shenyu Zhang<sup>*</sup>, **Yu Li**<sup>*</sup>, Rui Wu, Xiutian Huang, Yongrui Chen, Wenhao Xu, Guilin Qi
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+- [Hegta: Leveraging heterogeneous graph-enhanced large language models for few-shot complex table understanding](https://ojs.aaai.org/index.php/AAAI/article/view/34606) （AAAI 2025）  
+  Rihui Jin, **Yu Li**, Guilin Qi, Nan Hu, Yuan-Fang Li, Jiaoyan Chen, Jianan Wang, Yongrui Chen, Dehai Min, Sheng Bi  
+
+
+- [Can ChatGPT replace traditional KBQA models? An in-depth analysis of the question answering performance of the GPT LLM family](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) （ISWC 2023, Oral）  
+  Yiming Tan, Dehai Min, **Yu Li**, Wenbo Li, Nan Hu, Yongrui Chen, Guilin Qi  
+  [**Code**](https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family)
+
+
+- [Exploring the impact of table-to-text methods on augmenting llm-based question answering with domain hybrid data](https://arxiv.org/abs/2402.12869) （NAACL 2024, Oral）  
+  Dehai Min, Nan Hu, Rihui Jin, Nuo Lin, Jiaoyan Chen, Yongrui Chen, **Yu Li**, Guilin Qi, Yun Li, Nijun Li, Qianren Wang  
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06* Outstanding Graduate, Southeast University 
+- *2024.10* First‑Class Scholarship, Southeast University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 – Present*, Ph.D. in Computer Science and Engineering, Southeast University. 
+- *2022.09 - 2025.06*, M.S. in Computer Science and Engineering (Double Degree), Southeast University & Monash University.
+- *2017.09 - 2021.06*, B.S. in Computer Science and Technology, Hefei University of Technology .
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09 - 2024.03*, Ant Group, Hangzhou, China.
