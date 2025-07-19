@@ -42,16 +42,30 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 [MATEval: A Multi-Agent Discussion Framework
-for Advancing Open-Ended Text Evaluation](https://arxiv.org/pdf/2403.19305?)
-
-**Yu Li**, Shenyu Zhang, Rui Wu, Xiutian Huang, Wenhao Xu, Guilin Qi, Dehai Min
+for Advancing Open-Ended Text Evaluation](https://arxiv.org/pdf/2403.19305?) （DASFAA 2024 Oral）
 
 **Yu Li**<sup>*</sup>, Shenyu Zhang<sup>*</sup>, Rui Wu, Xiutian Huang, Wenhao Xu, Guilin Qi, Dehai Min
 
 
+[**Code**](https://github.com/ElevenLiy/MATEval) <strong><span class='show_paper_citations' data='ikFB2JcAAAAJ:Tyk-4Ss8FVUC'></span></strong> [![GitHub Stars](https://img.shields.io/github/stars/kse-ElEvEn/MATEval?style=social)](https://github.com/kse-ElEvEn/MATEval)
+
+</div>
+</div>
 
 
-[**Project**](https://github.com/ElevenLiy/MATEval) <strong><span class='show_paper_citations' data='ikFB2JcAAAAJ:Tyk-4Ss8FVUC'></span></strong>（DASFAA 2024 Oral）[![GitHub Stars](https://img.shields.io/github/stars/kse-ElEvEn/MATEval?style=social)](https://github.com/kse-ElEvEn/MATEval)
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/mateval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Harnessing Diverse Perspectives: A Multi-Agent
+Framework for Enhanced Error Detection in
+Knowledge Graphs](https://arxiv.org/abs/2501.15791) （DASFAA 2025 Oral）
+
+**Yu Li**, Yi Huang, Guilin Qi, Junlan Feng, Nan Hu, Songlin Zhai, Haohan Xue, Yongrui Chen, Ruoyan Shen, Tongtong Wu
+
+
+[**Code**](https://github.com/ElevenLiy/MAKGED) <strong><span class='show_paper_citations' data='ikFB2JcAAAAJ:Tyk-4Ss8FVUC'></span></strong> [![GitHub Stars](https://img.shields.io/github/stars/kse-ElEvEn/MAKGED?style=social)](https://github.com/kse-ElEvEn/MAKGED)
 
 </div>
 </div>
