@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yu Li (李煜）"
-description              : "Exploring LLM theory and applications, with a focus on tool learning and safety defenses in LLM-agent. "
+description              : "Focusing on LLMs and LLM-Agent. "
 repository               : "ElevenLiy/ElevenLiy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yu Li （李煜）"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Southeast University"
+  bio              : "Ph.D. student @ Southeast University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
