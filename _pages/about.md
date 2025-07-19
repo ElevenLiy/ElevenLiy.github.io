@@ -77,14 +77,14 @@ for Advancing Open-Ended Text Evaluation](https://arxiv.org/pdf/2403.19305?) （
 
 
 # 🎖 Honors and Awards
-- *2025.06* Outstanding Graduate, Southeast University 
-- *2024.10* First‑Class Scholarship, Southeast University
+- *2025.06*:  Outstanding Graduate, Southeast University 
+- *2024.10*:  First‑Class Scholarship, Southeast University
 
 # 📖 Educations
-- *2025.09 – Present*, Ph.D. in Computer Science and Engineering, Southeast University. 
-- *2022.09 - 2025.06*, M.S. in Computer Science and Engineering (Double Degree), Southeast University & Monash University.
-- *2017.09 - 2021.06*, B.S. in Computer Science and Technology, Hefei University of Technology .
+- *2025.09 – Present*:  Ph.D. in Computer Science and Engineering, Southeast University. 
+- *2022.09 - 2025.06*:  M.S. in Computer Science and Engineering (Double Degree), Southeast University & Monash University.
+- *2017.09 - 2021.06*:  B.S. in Computer Science and Technology, Hefei University of Technology .
 
 
 # 💻 Internships
-- *2023.09 - 2024.03*, Ant Group, Hangzhou, China.
+- *2023.09 - 2024.03*:  Ant Group, Hangzhou, China.
