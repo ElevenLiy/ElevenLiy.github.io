@@ -55,7 +55,7 @@ for Advancing Open-Ended Text Evaluation](https://arxiv.org/pdf/2403.19305?) （
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/MAKGED.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/MAKGED.png' alt="sym" width="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Harnessing Diverse Perspectives: A Multi-Agent
