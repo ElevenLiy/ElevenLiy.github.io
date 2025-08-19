@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Computer Science and Technology at Southeast University （东南大学） (Fall 2025), supervised by Prof. <a href='https://lfeng1995.github.io/'>Lei Feng (冯磊) </a>. Previously, I received my master’s degrees from Southeast University and Monash University (Double degree program), advised by Prof. <a href='https://cs.seu.edu.cn/gqi/main.htm'> Guilin Qi (漆桂林) </a>. I received my Bachelor’s degree in Computer Science and Technology from Hefei University of Technology（合肥工业大学) in June 2021.
+I am a Ph.D. student in Computer Science and Technology at Southeast University (Fall 2025), supervised by Prof. <a href='https://lfeng1995.github.io/'>Lei Feng </a>. Previously, I received my master’s degrees from Southeast University and Monash University (Double degree program), advised by Prof. <a href='https://cs.seu.edu.cn/gqi/main.htm'> Guilin Qi </a>. I received my Bachelor’s degree in Computer Science and Technology from Hefei University of Technology in June 2021.
 
 My research interest includes:
 
