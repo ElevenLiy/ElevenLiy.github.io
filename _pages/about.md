@@ -38,7 +38,9 @@ My research interest includes:
 
 # 📝 Publications 
 
-- [C³TG: Conflict-aware, Composite, and Collaborative Controlled Text Generation](https://arxiv.org/abs/2511.09292) （AAAI 2026 Poster）  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/mateval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[C³TG: Conflict-aware, Composite, and Collaborative Controlled Text Generation](https://arxiv.org/abs/2511.09292) （AAAI 2026 Poster）  
   **Yu Li**, Zhe Yang, Yi Huang, Xin Liu, Guilin Qi
 
 
