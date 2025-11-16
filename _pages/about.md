@@ -45,7 +45,8 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [C³TG: Conflict-aware, Composite, and Collaborative Controlled Text Generation](https://arxiv.org/abs/2511.09292) （AAAI 2026 Poster）  
-  **Yu Li**, Zhe Yang, Yi Huang, Xin Liu, Guilin Qi
+  
+**Yu Li**, Zhe Yang, Yi Huang, Xin Liu, Guilin Qi
 </div>
 </div>
 
@@ -66,10 +67,16 @@ for Advancing Open-Ended Text Evaluation](https://arxiv.org/pdf/2403.19305?) （
 
 
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/makged.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - [Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs](https://arxiv.org/abs/2501.15791) （DASFAA 2025 Oral）  
   **Yu Li**, Yi Huang, Guilin Qi, Junlan Feng, Nan Hu, Songlin Zhai, Haohan Xue, Yongrui Chen, Ruoyan Shen, Tongtong Wu  
   [**Code**](https://github.com/ElevenLiy/MAKGED) <strong><span class='show_paper_citations' data='ikFB2JcAAAAJ:Tyk-4Ss8FVUC'></span></strong> [![GitHub Stars](https://img.shields.io/github/stars/kse-ElEvEn/MAKGED?style=social)](https://github.com/kse-ElEvEn/MAKGED)
+</div>
+</div>
+
+
+
 
 - [DEE: Dual-Stage Explainable Evaluation Method for Text Generation](https://link.springer.com/chapter/10.1007/978-981-97-5575-2_29) （DASFAA 2024 Oral）  
   Shenyu Zhang<sup>*</sup>, **Yu Li**<sup>*</sup>, Rui Wu, Xiutian Huang, Yongrui Chen, Wenhao Xu, Guilin Qi
