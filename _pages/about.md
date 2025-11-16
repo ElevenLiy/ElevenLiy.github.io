@@ -36,9 +36,13 @@ My research interest includes:
 - *2024.03*: &nbsp;🎉 Our paper (<a href='https://link.springer.com/chapter/10.1007/978-981-97-5575-2_29'> DEE </a>) was accepted by DASFAA 2024, Oral Paper!
 - *2024.01*: &nbsp;🎉 Our paper was accepted by NAACL 2024!
 
+
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/mateval.png' alt="sym" width="100%"></div></div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [C³TG: Conflict-aware, Composite, and Collaborative Controlled Text Generation](https://arxiv.org/abs/2511.09292) （AAAI 2026 Poster）  
   **Yu Li**, Zhe Yang, Yi Huang, Xin Liu, Guilin Qi
