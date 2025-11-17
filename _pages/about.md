@@ -69,11 +69,11 @@ for Advancing Open-Ended Text Evaluation](https://arxiv.org/pdf/2403.19305?) （
 
 
   
-[Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs](https://arxiv.org/abs/2501.15791) （DASFAA 2025 Oral）  
+- [Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs](https://arxiv.org/abs/2501.15791) （DASFAA 2025 Oral）  
   
-**Yu Li**, Yi Huang, Guilin Qi, Junlan Feng, Nan Hu, Songlin Zhai, Haohan Xue, Yongrui Chen, Ruoyan Shen, Tongtong Wu  
-
-[**Code**](https://github.com/ElevenLiy/MAKGED) <strong><span class='show_paper_citations' data='ikFB2JcAAAAJ:Tyk-4Ss8FVUC'></span></strong> [![GitHub Stars](https://img.shields.io/github/stars/kse-ElEvEn/MAKGED?style=social)](https://github.com/kse-ElEvEn/MAKGED)
+  **Yu Li**, Yi Huang, Guilin Qi, Junlan Feng, Nan Hu, Songlin Zhai, Haohan Xue, Yongrui Chen, Ruoyan Shen, Tongtong Wu  
+  
+  [**Code**](https://github.com/ElevenLiy/MAKGED) <strong><span class='show_paper_citations' data='ikFB2JcAAAAJ:Tyk-4Ss8FVUC'></span></strong> [![GitHub Stars](https://img.shields.io/github/stars/kse-ElEvEn/MAKGED?style=social)](https://github.com/kse-ElEvEn/MAKGED)
 
 
 
