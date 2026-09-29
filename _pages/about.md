@@ -30,7 +30,7 @@ My research interest includes:
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉 Two papers, <strong>CITA</strong> and <strong>PhGPO</strong>, were accepted by NeurIPS 2026!
+- *2026.09*: &nbsp;🎉 Two papers, <strong>CITA</strong> and <strong>PhGPO</strong>, were accepted by NeurIPS 2026 (Poster)!
 - *2025.11*: &nbsp;🎉 Our paper (<a href='https://arxiv.org/abs/2511.09292'> C³TG </a>) was accepted by AAAI 2026 (Poster)!
 - *2025.01*: &nbsp;🎉 Our paper (<a href='https://arxiv.org/abs/2501.15791'> MAKGED </a>) was accepted by DASFAA 2025, Oral Paper!
 - *2024.12*: &nbsp;🎉 Our paper was accepted by AAAI 2025 (Poster)!
@@ -41,13 +41,26 @@ My research interest includes:
 
 # 📝 Publications 
 
-- [Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents](https://neurips.cc/Downloads/2026) （NeurIPS 2026）  
-  
-  **Yu Li**, Zheng Zhang, Xin Liu, Shengtian Yang, Guangfeng Cai, Lei Feng  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Poster</div><img src='images/cita_overview.svg' alt="CITA overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [PhGPO: Pheromone-Guided Policy Optimization for Long-Horizon Tool Planning](https://arxiv.org/abs/2602.13691) （NeurIPS 2026）  
-  
-  **Yu Li**, Guangfeng Cai, Shengtian Yang, Han Luo, Shuo Han, Xu He, Dong Li, Lei Feng  
+[Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents](https://neurips.cc/Downloads/2026) （NeurIPS 2026 Poster）
+
+**Yu Li**, Zheng Zhang, Xin Liu, Shengtian Yang, Guangfeng Cai, Lei Feng
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Poster</div><img src='images/phgpo_overview.svg' alt="PhGPO overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PhGPO: Pheromone-Guided Policy Optimization for Long-Horizon Tool Planning](https://arxiv.org/abs/2602.13691) （NeurIPS 2026 Poster）
+
+**Yu Li**, Guangfeng Cai, Shengtian Yang, Han Luo, Shuo Han, Xu He, Dong Li, Lei Feng
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
