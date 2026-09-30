@@ -41,7 +41,7 @@ My research interest includes:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Poster</div><img src='images/cita_overview.svg' alt="CITA overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Poster</div><img src='images/cita_overview.png' alt="CITA overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents](https://neurips.cc/Downloads/2026) （NeurIPS 2026 Poster）
