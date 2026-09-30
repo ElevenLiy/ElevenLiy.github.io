@@ -17,27 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Computer Science and Technology at Southeast University (Fall 2025), supervised by Prof. <a href='https://lfeng1995.github.io/'>Lei Feng </a>. Previously, I received my master’s degrees from Southeast University and Monash University (Double degree program), advised by Prof. <a href='https://cs.seu.edu.cn/gqi/main.htm'> Guilin Qi </a>. I received my Bachelor’s degree in Computer Science and Technology from Hefei University of Technology in June 2021.
+I am a Ph.D. student in Computer Science and Technology at Southeast University, advised by Prof. <a href='https://lfeng1995.github.io/'>Lei Feng</a>. Previously, I received master's degrees from Southeast University and Monash University through a double-degree program, with Prof. <a href='https://cs.seu.edu.cn/gqi/main.htm'>Guilin Qi</a> as my advisor. I received my bachelor's degree in Computer Science and Technology from Hefei University of Technology in June 2021.
 
-My research interest includes:
+My research interests include:
 
-- Fine-tuning and Reinforcement Learning for LLMs
-- LLM-Driven Autonomous Agent Architectures
-- Cooperative Multi-Agent Collaboration
+- Fine-tuning and reinforcement learning for LLMs
+- LLM-based autonomous agent architectures
+- Multi-agent collaboration
 
 
 
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉 Two papers, (<a href='https://arxiv.org/abs/2511.09292'> CITA </a>) and (<a href='https://arxiv.org/abs/2602.13691'> PhGPO </a>), were accepted by NeurIPS 2026 (Poster)!
-- *2026.04*: &nbsp;🎉 Our paper was accepted by ICML 2026 (Poster)!
-- *2025.11*: &nbsp;🎉 Our paper (<a href='https://arxiv.org/abs/2511.09292'> C³TG </a>) was accepted by AAAI 2026 (Poster)!
-- *2025.01*: &nbsp;🎉 Our paper (<a href='https://arxiv.org/abs/2501.15791'> MAKGED </a>) was accepted by DASFAA 2025, Oral Paper!
-- *2024.12*: &nbsp;🎉 Our paper was accepted by AAAI 2025 (Poster)!
-- *2024.03*: &nbsp;🎉 Our paper (<a href='https://link.springer.com/chapter/10.1007/978-981-97-5575-2_31'> MATEval </a>) was accepted by DASFAA 2024, Oral Paper!
-- *2024.03*: &nbsp;🎉 Our paper (<a href='https://link.springer.com/chapter/10.1007/978-981-97-5575-2_29'> DEE </a>) was accepted by DASFAA 2024, Oral Paper!
-- *2024.01*: &nbsp;🎉 Our paper was accepted by NAACL 2024!
+- *2026.09*: &nbsp;🎉 Our papers <a href='https://arxiv.org/abs/2511.09292'>CITA</a> and <a href='https://arxiv.org/abs/2602.13691'>PhGPO</a> were accepted to NeurIPS 2026 (Poster)!
+- *2026.04*: &nbsp;🎉 Our paper was accepted to ICML 2026 (Poster)!
+- *2025.11*: &nbsp;🎉 Our paper <a href='https://arxiv.org/abs/2511.09292'>C³TG</a> was accepted to AAAI 2026 (Poster)!
+- *2025.01*: &nbsp;🎉 Our paper <a href='https://arxiv.org/abs/2501.15791'>MAKGED</a> was accepted to DASFAA 2025 (Oral)!
+- *2024.12*: &nbsp;🎉 Our paper was accepted to AAAI 2025 (Poster)!
+- *2024.03*: &nbsp;🎉 Our paper <a href='https://link.springer.com/chapter/10.1007/978-981-97-5575-2_31'>MATEval</a> was accepted to DASFAA 2024 (Oral)!
+- *2024.03*: &nbsp;🎉 Our paper <a href='https://link.springer.com/chapter/10.1007/978-981-97-5575-2_29'>DEE</a> was accepted to DASFAA 2024 (Oral)!
+- *2024.01*: &nbsp;🎉 Our paper was accepted to NAACL 2024!
 
 
 # 📝 Publications 
@@ -45,7 +45,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Poster</div><img src='images/cita_overview.png' alt="CITA overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents](https://neurips.cc/Downloads/2026) （NeurIPS 2026 Poster）
+[Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents](https://neurips.cc/Downloads/2026) (NeurIPS 2026, Poster)
 
 **Yu Li**, Zheng Zhang, Xin Liu, Shengtian Yang, Guangfeng Cai, Lei Feng
 
@@ -56,7 +56,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Poster</div><img src='images/phgpo_overview.png' alt="PhGPO overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PhGPO: Pheromone-Guided Policy Optimization for Long-Horizon Tool Planning](https://arxiv.org/abs/2602.13691) （NeurIPS 2026 Poster）
+[PhGPO: Pheromone-Guided Policy Optimization for Long-Horizon Tool Planning](https://arxiv.org/abs/2602.13691) (NeurIPS 2026, Poster)
 
 **Yu Li**, Guangfeng Cai, Shengtian Yang, Han Luo, Shuo Han, Xu He, Dong Li, Lei Feng
 
@@ -64,14 +64,14 @@ My research interest includes:
 </div>
 
 
-- [Phase-Aware Mixture of Experts for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.17038) （ICML 2026 Poster）  
+- [Phase-Aware Mixture of Experts for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.17038) (ICML 2026, Poster)  
   Shengtian Yang, **Yu Li**, Shuo He, Yewen Li, Qingpeng Cai, Peng Jiang, Lei Feng
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[C³TG: Conflict-aware, Composite, and Collaborative Controlled Text Generation](https://arxiv.org/abs/2511.09292) （AAAI 2026 Poster）  
+[C³TG: Conflict-aware, Composite, and Collaborative Controlled Text Generation](https://arxiv.org/abs/2511.09292) (AAAI 2026, Poster)  
   
 **Yu Li**, Zhe Yang, Yi Huang, Xin Liu, Guilin Qi
 </div>
@@ -82,7 +82,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 [MATEval: A Multi-Agent Discussion Framework
-for Advancing Open-Ended Text Evaluation](https://arxiv.org/pdf/2403.19305?) （DASFAA 2024 Oral）
+for Advancing Open-Ended Text Evaluation](https://arxiv.org/pdf/2403.19305?) (DASFAA 2024, Oral)
 
 **Yu Li**<sup>*</sup>, Shenyu Zhang<sup>*</sup>, Rui Wu, Xiutian Huang, Wenhao Xu, Guilin Qi, Dehai Min
 
@@ -95,7 +95,7 @@ for Advancing Open-Ended Text Evaluation](https://arxiv.org/pdf/2403.19305?) （
 
 
   
-- [Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs](https://arxiv.org/abs/2501.15791) （DASFAA 2025 Oral）  
+- [Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs](https://arxiv.org/abs/2501.15791) (DASFAA 2025, Oral)  
   
   **Yu Li**, Yi Huang, Guilin Qi, Junlan Feng, Nan Hu, Songlin Zhai, Haohan Xue, Yongrui Chen, Ruoyan Shen, Tongtong Wu  
   
@@ -104,32 +104,34 @@ for Advancing Open-Ended Text Evaluation](https://arxiv.org/pdf/2403.19305?) （
 
 
 
-- [DEE: Dual-Stage Explainable Evaluation Method for Text Generation](https://link.springer.com/chapter/10.1007/978-981-97-5575-2_29) （DASFAA 2024 Oral）  
+- [DEE: Dual-Stage Explainable Evaluation Method for Text Generation](https://link.springer.com/chapter/10.1007/978-981-97-5575-2_29) (DASFAA 2024, Oral)  
   Shenyu Zhang<sup>*</sup>, **Yu Li**<sup>*</sup>, Rui Wu, Xiutian Huang, Yongrui Chen, Wenhao Xu, Guilin Qi
 
 
-- [Hegta: Leveraging heterogeneous graph-enhanced large language models for few-shot complex table understanding](https://ojs.aaai.org/index.php/AAAI/article/view/34606) （AAAI 2025）  
+- [Hegta: Leveraging heterogeneous graph-enhanced large language models for few-shot complex table understanding](https://ojs.aaai.org/index.php/AAAI/article/view/34606) (AAAI 2025)  
   Rihui Jin, **Yu Li**, Guilin Qi, Nan Hu, Yuan-Fang Li, Jiaoyan Chen, Jianan Wang, Yongrui Chen, Dehai Min, Sheng Bi  
 
 
-- [Can ChatGPT replace traditional KBQA models? An in-depth analysis of the question answering performance of the GPT LLM family](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) （ISWC 2023, Oral）  
+- [Can ChatGPT replace traditional KBQA models? An in-depth analysis of the question answering performance of the GPT LLM family](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) (ISWC 2023, Oral)  
   Yiming Tan, Dehai Min, **Yu Li**, Wenbo Li, Nan Hu, Yongrui Chen, Guilin Qi  
   [**Code**](https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family)
 
 
-- [Exploring the impact of table-to-text methods on augmenting llm-based question answering with domain hybrid data](https://arxiv.org/abs/2402.12869) （NAACL 2024, Oral）  
+- [Exploring the impact of table-to-text methods on augmenting LLM-based question answering with domain hybrid data](https://arxiv.org/abs/2402.12869) (NAACL 2024, Oral)  
   Dehai Min, Nan Hu, Rihui Jin, Nuo Lin, Jiaoyan Chen, Yongrui Chen, **Yu Li**, Guilin Qi, Yun Li, Nijun Li, Qianren Wang  
 
 
 # 🎖 Honors and Awards
-- *2025.06*:  Outstanding Graduate, Southeast University 
-- *2024.10*:  First-Class Scholarship, Southeast University
+- *2025.06*: Outstanding Graduate, Southeast University.
+- *2024.10*: First-Class Scholarship, Southeast University.
 
 # 📖 Education
-- *2025.09 – Present*:  Ph.D. in Computer Science and Engineering, Southeast University. 
-- *2022.09 - 2025.06*:  M.S. in Computer Science and Engineering (Double Degree), Southeast University & Monash University.
-- *2017.09 - 2021.06*:  B.S. in Computer Science and Technology, Hefei University of Technology .
+- *2025.09 – Present*: Ph.D. in Computer Science and Engineering, Southeast University.
+- *2022.09 – 2025.06*: M.S. in Computer Science and Engineering (double-degree program), Southeast University and Monash University.
+- *2017.09 – 2021.06*: B.S. in Computer Science and Technology, Hefei University of Technology.
 
 
 # 💻 Internships
-- *2023.09 - 2024.03*:  Ant Group, Hangzhou, China.
+- *2026.09 – Present*: **LLM Algorithm Intern**, Large Language Model Algorithm Lab, Huawei 2012 Labs, Shanghai, China.
+- *2026.03 – 2026.08*: **LLM Algorithm Intern**, Tencent, Shenzhen, China.
+- *2023.09 – 2024.03*: Ant Group, Hangzhou, China.
