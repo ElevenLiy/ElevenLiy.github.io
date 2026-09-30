@@ -30,7 +30,8 @@ My research interest includes:
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉 Two papers, <strong>CITA</strong> and <strong>PhGPO</strong>, were accepted by NeurIPS 2026 (Poster)!
+- *2026.09*: &nbsp;🎉 Two papers, (<a href='https://arxiv.org/abs/2511.09292'> CITA </a>) and (<a href='https://arxiv.org/abs/2602.13691'> PhGPO </a>), were accepted by NeurIPS 2026 (Poster)!
+- *2026.04*: &nbsp;🎉 Our paper was accepted by ICML 2026 (Poster)!
 - *2025.11*: &nbsp;🎉 Our paper (<a href='https://arxiv.org/abs/2511.09292'> C³TG </a>) was accepted by AAAI 2026 (Poster)!
 - *2025.01*: &nbsp;🎉 Our paper (<a href='https://arxiv.org/abs/2501.15791'> MAKGED </a>) was accepted by DASFAA 2025, Oral Paper!
 - *2024.12*: &nbsp;🎉 Our paper was accepted by AAAI 2025 (Poster)!
@@ -61,6 +62,10 @@ My research interest includes:
 
 </div>
 </div>
+
+
+- [Phase-Aware Mixture of Experts for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.17038) （ICML 2026 Poster）  
+  Shengtian Yang, **Yu Li**, Shuo He, Yewen Li, Qingpeng Cai, Peng Jiang, Lei Feng
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
