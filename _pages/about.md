@@ -52,7 +52,7 @@ My research interest includes:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Poster</div><img src='images/phgpo_overview.svg' alt="PhGPO overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Poster</div><img src='images/phgpo_overview.png' alt="PhGPO overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PhGPO: Pheromone-Guided Policy Optimization for Long-Horizon Tool Planning](https://arxiv.org/abs/2602.13691) （NeurIPS 2026 Poster）
