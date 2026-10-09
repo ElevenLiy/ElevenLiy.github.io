@@ -30,7 +30,7 @@ My research interests include:
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉 Our papers <a href='https://arxiv.org/abs/2511.09292'>CITA</a> and <a href='https://arxiv.org/abs/2602.13691'>PhGPO</a> were accepted to NeurIPS 2026 (Poster)!
+- *2026.09*: &nbsp;🎉 Our papers <a href='https://arxiv.org/pdf/2610.02330'>CITA</a> and <a href='https://arxiv.org/abs/2602.13691'>PhGPO</a> were accepted to NeurIPS 2026 (Poster)!
 - *2026.04*: &nbsp;🎉 Our paper was accepted to ICML 2026 (Poster)!
 - *2025.11*: &nbsp;🎉 Our paper <a href='https://arxiv.org/abs/2511.09292'>C³TG</a> was accepted to AAAI 2026 (Poster)!
 - *2025.01*: &nbsp;🎉 Our paper <a href='https://arxiv.org/abs/2501.15791'>MAKGED</a> was accepted to DASFAA 2025 (Oral)!
@@ -45,7 +45,7 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Poster</div><img src='images/cita_overview.png' alt="CITA overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents](https://neurips.cc/Downloads/2026) (NeurIPS 2026, Poster)
+[Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents](https://arxiv.org/pdf/2610.02330) (NeurIPS 2026, Poster)
 
 **Yu Li**, Zheng Zhang, Xin Liu, Shengtian Yang, Guangfeng Cai, Lei Feng
 
